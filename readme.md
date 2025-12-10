@@ -67,12 +67,7 @@ Kita akan membuat environment khusus agar pustaka proyek ini tidak mengganggu pr
 Setelah berhasil, akan muncul folder baru bernama `yolov8_lpr_env` di panel kiri VS Code.
 
 
-
----
-
-
-
-## 4. Mengaktifkan Virtual Environment
+4. Mengaktifkan Virtual Environment
 
 
 
@@ -98,6 +93,8 @@ source yolov8_lpr_env/bin/activate
 
 ```
 
+
+---
 
 
 ## 5. Instalasi PyTorch
