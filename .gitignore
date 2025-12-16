@@ -1,0 +1,12 @@
+yolov8_lpr_env/
+__pycache__/
+.DS_Store
+
+temp_pruned_model.pt
+yolov8m.pt
+yolov8n.pt
+
+# Mengabaikan folder spesifik lainnya
+runs/detect/val*/
+runs/detect/yolov8n_baseline/
+runs/detect/yolov8n_kd/
