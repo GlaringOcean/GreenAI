@@ -8,5 +8,3 @@ yolov8n.pt
 
 # Mengabaikan folder spesifik lainnya
 runs/detect/val*/
-runs/detect/yolov8n_baseline/
-runs/detect/yolov8n_kd/
