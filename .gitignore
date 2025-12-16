@@ -7,4 +7,4 @@ yolov8m.pt
 yolov8n.pt
 
 # Mengabaikan folder spesifik lainnya
-runs/detect/val*/
+**runs/detect/val*/
