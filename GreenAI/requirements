@@ -1,0 +1,25 @@
+# Core Computer Vision & YOLO
+ultralytics>=8.3.218
+opencv-python
+
+# Data Manipulation & Analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Green AI & Optimization Tools
+# Library untuk Pruning
+torch-pruning
+
+# Library untuk Quantization (OpenVINO)
+# Sesuai log: openvino>=2024.0.0 dan nncf>=2.14.0
+openvino>=2024.0.0
+openvino-telemetry>=2025.2.0
+nncf>=2.14.0
+
+# Jupyter Notebook Support (VS Code)
+ipykernel
+notebook
